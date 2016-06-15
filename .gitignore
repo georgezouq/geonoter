@@ -1,0 +1,15 @@
+# Linux
+# backup files
+*~
+
+# Windows
+# thumbnails
+Thumbs.db
+
+# Mac OS X
+# metadata
+.DS_Store
+
+# node and bower
+node_modules/
+bower_components/
