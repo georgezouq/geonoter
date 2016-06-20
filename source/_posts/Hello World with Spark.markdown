@@ -1,7 +1,7 @@
 ---
 layout:     keynote
-title:      "Transitioning from Server to Client Side Web Development with Angular 2"
-subtitle:   "Keynote: JavaScript Modularization Journey"
+title:      "Hello World with Spark"
+subtitle:   "Keynote: Hello World with Spark"
 iframe:     
 date:       2016-06-17
 author:     ""

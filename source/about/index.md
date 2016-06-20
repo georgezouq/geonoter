@@ -1,8 +1,8 @@
 ---
 layout: "about"
 title: "About"
-date: 2016-06-17 14:32:00
-description: "Hey, I am George"
+date: 2016-04-21 04:48:33
+description: "Hey, this is Kaijun."
 header-img: "img/about-bg.jpg"
 ---
 

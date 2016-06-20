@@ -1,7 +1,7 @@
 ---
 layout:     keynote
-title:      "Transitioning from Server to Client Side Web Development with Angular 2"
-subtitle:   "Keynote: JavaScript Modularization Journey"
+title:      "ES6 Getting Start - Commend"
+subtitle:   "Keynote: Commend with ES6"
 iframe:     
 date:       2016-06-17
 author:     ""

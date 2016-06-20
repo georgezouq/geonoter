@@ -1,7 +1,7 @@
 ---
 layout:     keynote
-title:      "Transitioning from Server to Client Side Web Development with Angular 2"
-subtitle:   "Keynote: JavaScript Modularization Journey"
+title:      "How use Markdown to write GitHub README"
+subtitle:   "Keynote: How use Markdown to write GitHub README"
 iframe:     
 date:       2016-06-17
 author:     ""
