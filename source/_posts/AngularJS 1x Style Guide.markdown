@@ -2,47 +2,45 @@
 layout:     keynote
 title:      "AngularJS 1x Style Guide"
 subtitle:   "Keynote: AngularJS 1x Style Guide"
-iframe:     
-date:       2016-06-17
+date: 2016-06-27 09:27:35
 author:     ""
-header-img: "post-bg-js-version.jpg"
 tags:
     - Angular
 ---
-#Angular 1.x 编码规则
-##Angular 团队支持
+# Angular 1.x 编码规则
+## Angular 团队支持
 <非常感谢Angular团队领导Igor Minar,检查审视，贡献必要的资料
 
-##目录
+## 目录
 	1.[单一职责](#single-responsibility)
-	1.[IIFE](#iife)
-	1.[Modules](#modules)
-	1.[Controllers](#controllers)
-	1.[Services](#services)
-	1.[Factories](#factories)
-	1.[数据服务](#dataservices)
-	1.[Directives](#directives)
-	1.[Promises解决方案](#promises)
-	1.[手动依赖注入](#manualdi)
-	1.[压缩和注解](#minification-and-annotation)
-	1.[异常处理](#exception-handling)
-	1.[命名规则](#naming)
-	1.[应用结构优化准则](#application-structure-lift-principle)
-	1.[应用结构](#application-structure)
-	1.[模块化](#modularity)
-	1.[启动](#startup-logic)
-	1.[Angular $服务包装](#angular-wrapper-services)
-	1.[测试](#testing)
-	1.[动画](#animations)
-	1.[评论](#comments)
-	1.[JSHint](#js-hint)
-	1.[JSCS](#jscs)
-	1.[常量](#constants)
-	1.[文件模板和代码片段](#file-templates-and-snippets)
-	1.[路由](#routing)
-	1.[自动化任务](#task-automation)
-	1.[Filter过滤器](#filter)
-	1.[Angular 文档](#angular-docs)
+	2.[IIFE](#iife)
+	3.[Modules](#modules)
+	4.[Controllers](#controllers)
+	5.[Services](#services)
+	6.[Factories](#factories)
+	7.[数据服务](#dataservices)
+	8.[Directives](#directives)
+	9.[Promises解决方案](#promises)
+	10.[手动依赖注入](#manualdi)
+	11.[压缩和注解](#minification-and-annotation)
+	12.[异常处理](#exception-handling)
+	13.[命名规则](#naming)
+	14.[应用结构优化准则](#application-structure-lift-principle)
+	15.[应用结构](#application-structure)
+	16.[模块化](#modularity)
+	17.[启动](#startup-logic)
+	18.[Angular $服务包装](#angular-wrapper-services)
+	19.[测试](#testing)
+	20.[动画](#animations)
+	21.[评论](#comments)
+	22.[JSHint](#js-hint)
+	23.[JSCS](#jscs)
+	24.[常量](#constants)
+	25.[文件模板和代码片段](#file-templates-and-snippets)
+	26.[路由](#routing)
+	27.[自动化任务](#task-automation)
+	28.[Filter过滤器](#filter)
+	29.[Angular 文档](#angular-docs)
 
 ## 单一职责
 

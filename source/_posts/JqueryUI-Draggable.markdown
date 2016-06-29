@@ -3,7 +3,7 @@ layout:     keynote
 title:      "JqueryUI-Draggable"
 subtitle:   "Keynote: JqueryUI-Draggable"
 iframe:     
-date:       2016-06-17
+date: 2016-06-27 09:27:35
 author:     ""
 header-img: "post-bg-js-version.jpg"
 tags:

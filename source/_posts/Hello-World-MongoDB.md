@@ -1,7 +1,12 @@
 ---
 title: Hello World MongoDB
 date: 2016-06-27 19:45:58
+subtitle:   "Mongo Introducting,CRUD and Database Collection operation"
+header-img: "31.jpg"
 tags:
+  - MongoDB
+  - 数据库
+  - NoSQL
 ---
 # Hello World MongoDB
 

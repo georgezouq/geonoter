@@ -1,14 +1,14 @@
 ---
-title: Python 爬虫框架 —— Scrapy
-date: 2016-06-23 13:41:21
+layout:     keynote
+title:      Python 爬虫框架 —— Scrapy
 subtitle:   "python,spider,scrapy"
-date:       2015-05-25
-author:     "Hux"
-catalog:    true
-header-img: "post-bg-js-module.jpg"
+iframe:     
+date:  2016-06-27 09:27:35
+author:     ""
+header-img: "post-bg-js-version.jpg"
 tags:
-    - python
-    - spider
+    - Python
+    - Spider
 ---
 
 # Instruction
