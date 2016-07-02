@@ -138,5 +138,5 @@ theme: huxblog
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/georgezouq/geonoter
-  branch: gh-pages
+  repo: https://github.com/georgezouq/georgezouq.github.io.git
+  branch: master
