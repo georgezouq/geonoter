@@ -6,7 +6,8 @@ iframe:
 author:     ""
 header-img: "post-bg-js-version.jpg"
 tags:
-    - Analysis
+    - HTML布局
+    - 前端
 ---
 
 # CSS布局方式 之 圣杯布局和双飞翼布局
