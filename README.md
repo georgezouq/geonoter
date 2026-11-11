@@ -17,7 +17,7 @@ Especially the section:
 ```
 deploy:
   type: git
-  repo: https://github.com/georgezouq/georgezouq.github.io.git
+  repo: https://github.com/example-org/example-site.git
   branch: master
 ```
 

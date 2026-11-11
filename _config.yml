@@ -137,6 +137,4 @@ theme: huxblog
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: https://github.com/georgezouq/georgezouq.github.io.git
-  branch: master
+  type: ''
