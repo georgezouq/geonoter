@@ -3,7 +3,7 @@ layout:     keynote
 title:      "基于Tomcat + Nginx + Memcached 搭建集群HA架构"
 subtitle:   "基于Tomcat + Nginx + Memcached 搭建集群HA架构"
 date: 2016-07-05 16:03:51
-author:     "George Zou"
+author:     "GeoNoter contributors"
 tags:
     - Nginx
     - Memcached
