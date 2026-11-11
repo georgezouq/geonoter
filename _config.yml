@@ -29,11 +29,6 @@ keyword: ""
 # SNS settings
 # RSS: false
 weibo_username:     George-邹
-zhihu_username:     george-zou
-github_username:    georgezouq
-twitter_username:   GeorgeZouSQ
-facebook_username:  GeorgeZouQ
-linkedin_username:  GeorgeZouQ
 
 # Build settings
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
@@ -137,6 +132,4 @@ theme: huxblog
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: https://github.com/georgezouq/geonoter
-  branch: gh-pages
+  type: ''
